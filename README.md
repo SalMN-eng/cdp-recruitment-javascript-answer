@@ -1,5 +1,7 @@
 # Requested setup
 $ npm install
+
+# Install mocha
 $ npm install --save-dev mocha
 
 # Launch (one of the parameters needed)
